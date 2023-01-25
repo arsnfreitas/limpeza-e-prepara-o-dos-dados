@@ -2,4 +2,7 @@
 
 - Identificando e tratando dados ausentes
 - Renomenando índices e colunas
-- Categoriazando e dummies
+- Categoriazando dados
+- Criando variáveis
+- Filtrando Dataframes
+- Unindo Dataframes
