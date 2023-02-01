@@ -6,3 +6,4 @@
 - Criando variáveis
 - Filtrando Dataframes
 - Unindo Dataframes
+- Agrupando dados: groupby
