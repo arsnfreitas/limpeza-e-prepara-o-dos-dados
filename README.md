@@ -7,3 +7,4 @@
 - Filtrando Dataframes
 - Unindo Dataframes
 - Agrupando dados: groupby
+- Agrupamento: mapping + groupby
